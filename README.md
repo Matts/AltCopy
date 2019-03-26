@@ -28,5 +28,5 @@ You can freely change between using `Ctrl C / V` and `Ctrl Alt C / V` to your wi
 ## Customization
 #### If you rather use `Ctrl + Shift + c`
 - Open the script in a text editor
-- Change `^!C::` and `^!V::` to `^+V::` `^+V::`
+- Change `^!C::` and `^!V::` to `^+C::` and `^+V::`
 - Save and reload hotkey
